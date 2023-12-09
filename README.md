@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I currently work as a Senior Developer at a large company, [Fintech Magalu](https://fintechmagalu.com.br).I have
-experience with TypeScript, PHP, and Go programming languages, as well as relational and non-relational databases.
+I currently work as a Senior Developer at [Fintech Magalu](https://fintechmagalu.com.br).
+I have experience with TypeScript, PHP, and Go programming languages, as well as relational and non-relational
+databases.
 
 <h3>Stacks and technologies I work with</h3>
 
@@ -37,10 +38,4 @@ experience with TypeScript, PHP, and Go programming languages, as well as relati
     <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-007ACC?style=flat-square&logo=RabbitMQ&logoColor=white" />
     <img alt="Jest" src="https://img.shields.io/badge/-Jest-007ACC?style=flat-square&logo=Jest&logoColor=white" />
     <img alt="PHPUnit" src="https://img.shields.io/badge/-PHPUnit-007ACC?style=flat-square&logo=PHPUnit&logoColor=white" />
-</div>
-<hr />
-
-<div>
-    <img alt="Pedro Dalvy's GitHub Stats" height="180em" src="https://github-readme-stats-pedrodalvy.vercel.app/api?username=pedrodalvy&theme=transparent&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />  
-    <img alt="Most Used Languages" height="180em" src="https://github-readme-stats-pedrodalvy.vercel.app/api/top-langs/?username=pedrodalvy&theme=transparent&show_icons=true&hide_border=true&layout=compact" />  
 </div>
