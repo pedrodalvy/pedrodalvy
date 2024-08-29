@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I currently work as a Senior Developer at [Fintech Magalu](https://fintechmagalu.com.br).
-I have experience with TypeScript, PHP, and Go programming languages, as well as relational and non-relational
-databases.
+I currently work as a Senior Developer at [Mercado Livre](www.mercadolivre.com.br).
+I have experience with JavaScript (and TypeScript), PHP, and Python programming languages, as well as relational and non-relational
+databases. I also have knowledge of Java and Go languages.
 
 <h3>Stacks and technologies I work with</h3>
 
@@ -12,6 +12,8 @@ databases.
     <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-007ACC?style=flat-square&logo=javascript&logoColor=white" />
     <img alt="Go" src="https://img.shields.io/badge/-Go-007ACC?style=flat-square&logo=go&logoColor=white" />
     <img alt="PHP" src="https://img.shields.io/badge/-PHP-007ACC?style=flat-square&logo=php&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-007ACC?style=flat-square&logo=python&logoColor=white" />
+    <img alt="Java" src="https://img.shields.io/badge/-Java-007ACC?style=flat-square&logo=openjdk&logoColor=white" />
     <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-007ACC?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="NestJS" src="https://img.shields.io/badge/-AdonisJS-007ACC?style=flat-square&logo=AdonisJS&logoColor=white" />
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-007ACC?style=flat-square&logo=laravel&logoColor=white" />
@@ -26,6 +28,7 @@ databases.
     <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-007ACC?style=flat-square&logo=MongoDB&logoColor=white" />
     <img alt="Redis" src="https://img.shields.io/badge/-Redis-007ACC?style=flat-square&logo=Redis&logoColor=white" />
     <img alt="SQL Server" src="https://img.shields.io/badge/-SQL Server-007ACC?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+    <img alt="Google BigQuery" src="https://img.shields.io/badge/-Google BigQuery-007ACC?style=flat-square&logo=google%20cloud&logoColor=white" />
 </div>
 <hr />
 
