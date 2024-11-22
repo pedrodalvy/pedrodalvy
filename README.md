@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I currently work as a Senior Developer at [Mercado Livre](www.mercadolivre.com.br).
+I currently work as a Senior Developer at [Mercado Livre](https://www.mercadolivre.com.br).
 I have experience with JavaScript (and TypeScript), PHP, and Python programming languages, as well as relational and non-relational
 databases. I also have knowledge of Java and Go languages.
 
