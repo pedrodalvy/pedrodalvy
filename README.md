@@ -17,6 +17,7 @@ databases. I also have knowledge of Java and Go languages.
     <img alt="NestJS" src="https://img.shields.io/badge/-NestJS-007ACC?style=flat-square&logo=nestjs&logoColor=white" />
     <img alt="NestJS" src="https://img.shields.io/badge/-AdonisJS-007ACC?style=flat-square&logo=AdonisJS&logoColor=white" />
     <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-007ACC?style=flat-square&logo=laravel&logoColor=white" />
+    <img alt="Flask" src="https://img.shields.io/badge/-Flask-007ACC?style=flat-square&logo=flask&logoColor=white" />
 </div>
 <hr />
 
@@ -41,4 +42,6 @@ databases. I also have knowledge of Java and Go languages.
     <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-007ACC?style=flat-square&logo=RabbitMQ&logoColor=white" />
     <img alt="Jest" src="https://img.shields.io/badge/-Jest-007ACC?style=flat-square&logo=Jest&logoColor=white" />
     <img alt="PHPUnit" src="https://img.shields.io/badge/-PHPUnit-007ACC?style=flat-square&logo=PHPUnit&logoColor=white" />
+    <img alt="Pytest" src="https://img.shields.io/badge/-Pytest-007ACC?style=flat-square&logo=pytest&logoColor=white" />
+    
 </div>
